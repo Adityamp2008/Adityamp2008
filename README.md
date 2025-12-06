@@ -1,125 +1,93 @@
-# 🚀 [Nama Proyek Anda]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" width="100%" alt="Banner">
+</p>
 
-[![License: [LISENSI]](https://img.shields.io/badge/License-[LISENSI]-blue.svg)]([LINK_KE_FILE_LISENSI])
-[![GitHub issues](https://img.shields.io/github/issues/[GITHUB_USERNAME]/[REPO_NAME].svg)](https://github.com/[GITHUB_USERNAME]/[REPO_NAME]/issues)
-[![GitHub stars](https://img.shields.io/github/stars/[GITHUB_USERNAME]/[REPO_NAME].svg)](https://github.com/[GITHUB_USERNAME]/[REPO_NAME]/star)
-[![Version](https://img.shields.io/badge/Version-[NOMOR_VERSI]-informational)](#[TENTANG_PROYEK])
+<h2 align="center">👋 Hi! I'm <strong>Ditt</strong> — Web Developer on the Rise</h2>
 
-> [**Satu kalimat deskripsi yang menarik dan ringkas tentang proyek Anda.**]
-
-[**Opsional:** Tambahkan tangkapan layar, GIF, atau demo proyek di sini untuk menarik perhatian. Anda bisa menggunakan sintaks: `![Deskripsi Gambar](link/ke/gambar.png)`]
-
----
-
-## 📖 Daftar Isi
-
-* [Tentang Proyek](#-tentang-proyek)
-* [Fitur Utama](#-fitur-utama)
-* [Instalasi](#-instalasi)
-* [Penggunaan](#-penggunaan)
-* [Kontribusi](#-kontribusi)
-* [Lisensi](#-lisensi)
-* [Kontak](#-kontak)
+<p align="center">
+  <em>
+    Student • SMK RPL • Focus on Web Development  
+    <br>Passionate about clean UI, interaction, and modern web experiences.
+  </em>
+</p>
 
 ---
 
-## 💡 Tentang Proyek
-
-Bagian ini memberikan deskripsi yang lebih rinci. Jelaskan **mengapa** proyek ini dibuat, **masalah apa** yang diselesaikan, dan **teknologi utama** apa yang digunakan.
-
-* **Tujuan:** [Jelaskan tujuan utama proyek ini.]
-* **Masalah yang Diselesaikan:** [Jelaskan masalah spesifik yang diatasi oleh proyek ini.]
-
-### 🛠️ Dibangun Dengan (Teknologi yang Digunakan)
-
-* [Bahasa Pemrograman / Framework 1]
-* [Bahasa Pemrograman / Framework 2]
-* [Database / Tools 3]
-* [Dll.]
+## 🚀 About Me  
+- 🌱 Learning Fullstack Development (Laravel • Node.js • Tailwind • React)  
+- ⚡ Love clean UI, micro-interactions & efficient backend logic  
+- 🎯 Trying to build meaningful web experiences  
+- 🎨 Interested in animation frameworks: GSAP, Framer Motion, AOS  
+- 📚 Always curious and experimenting with new tech  
 
 ---
 
-## ✨ Fitur Utama
-
-Daftar fitur-fitur penting yang ditawarkan oleh proyek Anda.
-
-* **[Fitur 1]:** [Penjelasan singkat tentang fitur tersebut.]
-* **[Fitur 2]:** [Penjelasan singkat tentang fitur tersebut.]
-* **[Fitur 3]:** [Penjelasan singkat tentang fitur tersebut.]
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,laravel,nodejs,express,react,tailwind,flutter,mysql,postgres,mongodb,git,github,vscode,linux" />
+</p>
 
 ---
 
-## ⚙️ Instalasi
-
-Jelaskan langkah-langkah untuk menyiapkan dan menjalankan proyek Anda secara lokal.
-
-### Prasyarat
-
-Pastikan Anda telah menginstal:
-
-* [Prasyarat 1] - Contoh: `Node.js`
-* [Prasyarat 2] - Contoh: `Python`
-
-### Langkah-langkah
-
-1.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[GITHUB_USERNAME]/[REPO_NAME].git
-    ```
-2.  **Masuk ke Direktori Proyek:**
-    ```bash
-    cd [REPO_NAME]
-    ```
-3.  **Instal Dependensi (Jika Ada):**
-    ```bash
-    # Contoh untuk Node.js
-    npm install 
-    
-    # Contoh untuk Python
-    pip install -r requirements.txt
-    ```
-4.  **Konfigurasi Lingkungan (Jika Perlu):**
-    [Jelaskan cara menyiapkan file konfigurasi atau variabel lingkungan, cth: membuat file `.env`.]
-5.  **Jalankan Proyek:**
-    ```bash
-    # Contoh perintah untuk menjalankan
-    npm start 
-    # atau 
-    python main.py
-    ```
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🚀 Penggunaan
-
-Berikan contoh atau *snippet* kode yang menunjukkan bagaimana proyek Anda dapat digunakan atau diintegrasikan.
-
-[**Contoh Penggunaan Proyek Anda**]
-
----
-
-## 🤝 Kontribusi
-
-Kontribusi sangat **dihargai**! Jika Anda ingin meningkatkan proyek ini, ikuti langkah-langkah berikut.
-
-1.  *Fork* Proyek (`Fork` tombol di kanan atas)
-2.  Buat *Branch* Fitur Baru (`git checkout -b feature/AmazingFeature`)
-3.  *Commit* Perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4.  *Push* ke *Branch* (`git push origin feature/AmazingFeature`)
-5.  Buka *Pull Request* (PR)
+## 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚖️ Lisensi
+## 🌐 Featured Projects  
+### 🔹 **Sistem Absensi QR (Laravel)**  
+Backend rapi, scan realtime, role admin–siswa.  
+👉 *Repository:* https://github.com/USERNAME/absensi-qr  
 
-Didistribusikan di bawah Lisensi [NAMA LISENSI] (misalnya MIT, GPL, Apache). Lihat `LICENSE` untuk informasi lebih lanjut.
+### 🔹 **Mini E-Commerce Node.js**  
+Auth JWT, cart, API modular dan scalable.  
+👉 *Repository:* https://github.com/USERNAME/ecommerce-node  
+
+### 🔹 **Portfolio React + Tailwind**  
+UI clean dengan animasi halus (Framer Motion).  
+👉 *Website:* https://USERNAME.vercel.app  
 
 ---
 
-## ✉️ Kontak
-
-[Nama Anda / Nama Tim] - [@Handle_Anda] - [Email Anda]
-
-Tautan Proyek: [https://github.com/[GITHUB_USERNAME]/[REPO_NAME]]
+## 🎞 Little Animation (for fun!)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 ---
+
+## 🧩 Badges  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Student-RPL-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Developer-Beginner-green?style=for-the-badge">
+</p>
+
+---
+
+## 📬 Connect With Me  
+<p>
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+
+  <a href="https://USERNAME.github.io">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌙 <em>“Code is not just logic — it’s experience.”</em>
+</p>
