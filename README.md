@@ -36,9 +36,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Adityamp2008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamp2008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
   </p>
+  </div>
 
 
-  <div align="center">
+<div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://github.com/Adityamp2008/Adityamp2008/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Adityamp2008/Adityamp2008/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
