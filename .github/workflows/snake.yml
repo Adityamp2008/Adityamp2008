@@ -1,8 +1,10 @@
-name: Generate Snake
+name: Generate Pacman Pro
 
 on:
+  # Update tiap jam 12 malam
   schedule:
     - cron: "0 0 * * *" 
+  # Tombol manual
   workflow_dispatch:
 
 permissions: 
@@ -15,18 +17,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate HD Dark Pacman
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Adityamp2008
+          # INI KONFIGURASI WARNA KHUSUS PACMAN DARK MODE HD
+          # Kita paksa background gelap dan kepala kuning emas (#FFD700)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/pacman-pro-dark.svg?color_snake=#FFD700&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&bg_color=#0d1117
 
       - name: Push to Output Branch
-        # KITA GANTI TUKANGNYA DI SINI (PAKAI PEACEIRIS)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          keep_history: true
