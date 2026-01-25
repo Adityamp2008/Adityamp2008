@@ -67,11 +67,6 @@
 </div>
 
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/Adityamp2008/Adityamp2008/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Adityamp2008/Adityamp2008/output/pacman-dark.svg" alt="Pacman Dark Animation" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <p><i>Thanks for visiting my profile!</i></p>
-</div>
