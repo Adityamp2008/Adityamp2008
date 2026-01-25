@@ -1,9 +1,10 @@
-name: Generate Pacman Pro
+name: Generate Dark Pacman
 
 on:
-  # Update tiap jam 12 malam
+  # Update otomatis tiap jam 12 malam
   schedule:
     - cron: "0 0 * * *" 
+  
   # Tombol manual
   workflow_dispatch:
 
@@ -17,14 +18,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate HD Dark Pacman
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Adityamp2008
-          # INI KONFIGURASI WARNA KHUSUS PACMAN DARK MODE HD
-          # Kita paksa background gelap dan kepala kuning emas (#FFD700)
+          # --- BAGIAN INI KUNCINYA ---
+          # Kita setting manual warnanya biar jadi Dark Mode + Pacman Kuning
           outputs: |
-            dist/pacman-pro-dark.svg?color_snake=#FFD700&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&bg_color=#0d1117
+            dist/pacman-dark.svg?color_snake=#FFD700&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&bg_color=#0d1117
+          # ---------------------------
 
       - name: Push to Output Branch
         uses: peaceiris/actions-gh-pages@v3
