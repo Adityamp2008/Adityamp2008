@@ -20,7 +20,7 @@ A passionate web developer who enjoys learning new technologies and building mod
 
 <p align="center">
 
-<a href="https://facebook.com/Aditya M P">
+<a href="https://www.facebook.com/profile.php?id=100088569536020">
 <img src="https://img.shields.io/badge/Facebook-0a2540?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
