@@ -65,7 +65,7 @@ A passionate web developer who enjoys learning new technologies and building mod
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityamp2008&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adityamp2008&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
 
 <br>
 
@@ -73,10 +73,9 @@ A passionate web developer who enjoys learning new technologies and building mod
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamp2008&theme=tokyonight&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamp2008&theme=tokyonight&layout=compact&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 👀 Profile Views
