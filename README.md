@@ -65,21 +65,8 @@ A passionate web developer who enjoys learning new technologies and building mod
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityamp2008&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
 
-<br>
 
 <img src="https://streak-stats.demolab.com?user=Adityamp2008&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamp2008&theme=tokyonight&layout=compact&hide_border=true"/>
-
-</p>
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Adityamp2008&icon=5&color=12"/>
 </p>
